@@ -1,0 +1,56 @@
+{
+  "status": "ok",
+  "totalResults": 36,
+  "articles": [
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": "Andres Triay, Robert Costa, Kathryn Watson, Robert Legare",
+      "title": "FBI search of Pence's home uncovers more documents - CBS News",
+      "description": "Federal authorities found another document with classification markings at the former vice president's home Friday.",
+      "url": "https://www.cbsnews.com/news/pences-home-being-searched-fbi/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/02/10/6c0b0d11-e247-410b-ac61-8e87ee9d078e/thumbnail/1200x630/ff091c6b585c4ae726abb5e2a8a7228c/ap23041633326718.jpg",
+      "publishedAt": "2023-02-11T03:43:00Z",
+      "content": "The FBI has discovered more relevant documents in a consensual search Friday of the Carmel, Ind., home of former Vice President Mike Pence. Federal authorities removed one document with classificatio… [+3276 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Athletic" },
+      "author": "Anthony Slater, Shams Charania",
+      "title": "Gary Payton II’s failed physical puts Warriors’ 4-team deal in jeopardy: Sources - The Athletic",
+      "description": "To acquire Payton, the Warriors traded James Wiseman to the Pistons and then rerouted Saddiq Bey to Atlanta for five second-round picks.",
+      "url": "https://theathletic.com/4180625/2023/02/10/gary-payton-physical-trade/",
+      "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/02/10185306/gettyimages-1458974008-594x594-1.jpg",
+      "publishedAt": "2023-02-11T02:34:43Z",
+      "content": "Gary Payton II the Warriors high-profile trade deadline acquisition could miss two-to-three months after a core muscle issue showed up in his physical on Friday morning, league sources confirmed to T… [+2694 chars]"
+    },
+    {
+      "source": { "id": null, "name": "13abc Action News" },
+      "author": "Sophie Bates",
+      "title": "Toledo-born teen bullied, dies by suicide - WTVG",
+      "description": "Washington Middle School Counselor Molly Toney says the best thing parents can do is check in with their child daily.",
+      "url": "https://www.13abc.com/2023/02/11/toledo-born-teen-bullied-dies-by-suicide/",
+      "urlToImage": "https://gray-wtvg-prod.cdn.arcpublishing.com/resizer/Bn3UJbMwzaRhYggj11NSJ7GTSgQ=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/2GPEA47QQFH6BFCFX54IT2VZVY.png",
+      "publishedAt": "2023-02-11T01:34:00Z",
+      "content": "TOLEDO, Ohio (WTVG) - Toledo-born 14-year-old Adriana Kuch died by suicide after a video was posted online of her being kicked and punched by several fellow students at Central Regional High School i… [+1962 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Alaska.gov" },
+      "author": "Kollette Schroeder",
+      "title": "Governor Dunleavy Issues Statement on Unidentified Object Shot Down Over Alaska - Mike Dunleavy - Alaska Governor Office",
+      "description": "Alaska Governor Mike Dunleavy issued the following statement today regarding the unidentified object shot down this morning over Alaskan waters. “Today’s announcement by the Pentagon that an unidentified object was shot down by an F-22 from Joint Base Elmendo…",
+      "url": "https://gov.alaska.gov/governor-dunleavy-issues-statement-on-unidentified-object-shot-down-over-alaska/",
+      "urlToImage": null,
+      "publishedAt": "2023-02-11T01:02:41Z",
+      "content": "Alaska Governor Mike Dunleavy issued the following statement today regarding the unidentified object shot down this morning over Alaskan waters.\r\n“Todays announcement by the Pentagon that an unidenti… [+1512 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Google cautions against 'hallucinating' chatbots - report - Reuters",
+      "description": "The boss of Google's search engine warned against the pitfalls of artificial intelligence in chatbots in a newspaper interview published on Saturday, as Google parent company Alphabet <a href=\"https://www.reuters.com/companies/GOOGL.O\" target=\"_blank\">(GOOGL.…",
+      "url": "https://www.reuters.com/technology/google-cautions-against-hallucinating-chatbots-report-2023-02-11/",
+      "urlToImage": "https://www.reuters.com/resizer/f8kUqx-JyEKCBhk-tAoSuvoeM54=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AZ3C2MC6TFISFPLH23LDWY2B74.jpg",
+      "publishedAt": "2023-02-11T00:17:00Z",
+      "content": "BERLIN, Feb 11 (Reuters) - The boss of Google's search engine warned against the pitfalls of artificial intelligence in chatbots in a newspaper interview published on Saturday, as Google parent compa… [+1384 chars]"
+    }
+  ]
+}
